@@ -14,13 +14,11 @@ return student_names[0]
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
-student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"] 
-puts student_names[5]
+return student_names[5]
 def last_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
-student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"] 
-puts student_names[7]
+return student_names[7]
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
 end
