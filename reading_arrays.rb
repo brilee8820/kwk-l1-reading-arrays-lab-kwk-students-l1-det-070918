@@ -11,7 +11,7 @@ def first_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
 student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-puts student_names[0]
+returns student_names[0]
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
